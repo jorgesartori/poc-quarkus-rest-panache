@@ -15,4 +15,5 @@ Just call a GET for the URL (can use web browser)
 http://localhost:8080/address/{CEP}
 ```
 The CEP variable is the Brazillian postal code and can be found here https://buscacepinter.correios.com.br/app/endereco/index.php
+
 Try this example http://localhost:8080/address/88010400 and receive this response "Praça Quinze de Novembro - Centro - Florianópolis - SC"
